@@ -1,0 +1,5 @@
+@import "tailwindcss/dist/tailwind.css";
+
+html {
+  background-color: black;
+}
